@@ -3,9 +3,9 @@
 ###The purpose of this deployment plan is to run through the process of setting up a server and making live with my portfolio and to make live changing in the staging.
 
 ####Software
-    ..* Ubuntu Server
-    ..* Apache2
-    ..* Git
+     Ubuntu Server
+     Apache2
+     Git
 
 The plan is to consist of a basic one page HTML markup that also consists of a Bootstrap framework. This is the process that it will consist of.
 
